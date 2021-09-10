@@ -10,7 +10,7 @@
 <ul>
   <li>Learn JavaScript at <a href="https://www.w3schools.com/">W3Schools.com</a></li>
   <li>Learn CSS at <a href="https://www.w3schools.com/">W3Schools.com</a></li>
-  <li>Apply JavaScpit and CSS to <a href="https://oxyuranus2020.github.io/Sen.Qiao.CISC275/">this page</a></li>
+  <li>Apply JavaScript and CSS to <a href="https://oxyuranus2020.github.io/Sen.Qiao.CISC275/">this page</a></li>
 </ul>  
 
 <h2>Change Log</h2>
