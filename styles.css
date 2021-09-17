@@ -9,7 +9,19 @@
 .posMid{
     position: fixed;
     top: 300px;
-    right: 750px;
+    right: 765px;
+}
+
+.posTime{
+    position: fixed;
+    top: 200px;
+    right: 850px;
+}
+
+.displayTime{
+    position: fixed;
+    top: 225px;
+    right: 715px;
 }
 
 
