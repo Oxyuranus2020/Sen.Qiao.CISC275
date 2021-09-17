@@ -28,8 +28,8 @@ qiaosen@udel.edu
   <li>Version 0.0.1 (09/02/2021): Initial Page published</li>
 
   <li>Version 0.0.2 (09/09/2021): TO-Do lists and Change Log created by using HTML learned this week</li>
-  
-  <li>Version 0.0.3 (09/16/2021): First (html) website published. CSS file created. To-Do lists updated. Change Log updated. All changes are made via Visual Studio Code and built-in Git</li>
+
+  <li>Version 0.0.3 (09/16/2021): First (html) website published. CSS file created. To-Do lists updated. Change Log updated. All changes are made via Visual Studio Code and built-in Git extension</li>
 </ul> 
 
 </body>
