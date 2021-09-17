@@ -6,7 +6,7 @@ qiaosen@udel.edu
 <hr>
 
 <p><a href="https://oxyuranus2020.github.io/Sen.Qiao.CISC275/website.html">Here</a> is the website I am developing</p>
-
+<hr>
 
 
 <html>
