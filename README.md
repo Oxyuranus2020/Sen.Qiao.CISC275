@@ -17,7 +17,7 @@ qiaosen@udel.edu
 <ul>
   <li>Learn JavaScript at <a href="https://www.w3schools.com/">W3Schools.com</a> <p>Progress: 10% (watched some tutorials, more to try later)</p></li>
   <li><del>Learn CSS at <a href="https://www.w3schools.com/">W3Schools.com</a></del> <p>Progress: 60% (went over most tutorials, and starting to apply them)</p></li>
-  <li>Apply JavaScript and CSS to <del><a href="https://oxyuranus2020.github.io/Sen.Qiao.CISC275/">this page</a></del> <ins><a href="https://oxyuranus2020.github.io/Sen.Qiao.CISC275/website.html">new website</ins></a> <p>Progress: 40% (<a href="/styles.css">css</a> file created)</p></li>
+  <li>Apply JavaScript and CSS to <del><a href="https://oxyuranus2020.github.io/Sen.Qiao.CISC275/">this page</a></del> <ins><a href="https://oxyuranus2020.github.io/Sen.Qiao.CISC275/website.html">new website</a></ins> <p>Progress: 40% (<a href="/styles.css">css</a> file created)</p></li>
 </ul>
 <hr>
 
